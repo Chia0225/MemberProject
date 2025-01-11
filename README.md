@@ -12,3 +12,5 @@ asdfasdfsadfasdf<br>
 asdfasdfasdfwghr
 <hr>
 123456
+
+![coffee](picture/coffee.JPG)
